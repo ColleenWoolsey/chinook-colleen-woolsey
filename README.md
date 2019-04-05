@@ -1,1 +1,1 @@
-![Chinook ERD](/chinook.pdf?raw=true)
+![Chinook ERD](/Chinook.pdf?raw=true)
